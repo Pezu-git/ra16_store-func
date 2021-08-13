@@ -1,5 +1,4 @@
 # Getting Started with Create React App
-[![Build status](https://ci.appveyor.com/api/projects/status/187p5qpkt31a0xgu?svg=true)](https://ci.appveyor.com/project/Pezu-git/ra16-store-func)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
