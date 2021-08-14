@@ -90,7 +90,7 @@ h3 {
   margin: auto;
   margin-top: 100;
 
-  background-color: #282c34;
+  /* background: linear-gradient(blue, #282c34 30%); */
 }
 .window {
   display: flex;
@@ -124,4 +124,6 @@ h3 {
 .Img {
   height: 500px;
 }
+
+
 
